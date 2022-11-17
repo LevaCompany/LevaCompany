@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 
 ### Top repositores
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-icons)](leva-icons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-icons)](https://www.github.com/LevaCompany/leva-icons)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-lang)](leva-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-lang)](https://www.github.com/LevaCompany/leva-lang)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=LevaCompany.github.io)](LevaCompany.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=LevaCompany.github.io)](https://www.github.com/LevaCompany/LevaCompany.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-license)](leva-license)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=leva-license)](https://www.github.com/LevaCompany/leva-license)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=blobs)](blobs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LevaCompany&repo=blobs)](https://www.github.com/LevaCompany/blobs)
 
 ### Other
 
