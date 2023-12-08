@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Get+Leva+Team+for+free!)](https://team.levabrands.dev/get?sale=free)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Get+Leva+Pro+for+free!)](https://levabrands.dev/get/pro?sale=free&mode=519516280)
+
