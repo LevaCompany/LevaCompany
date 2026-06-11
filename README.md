@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaCompany&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=LevaCompany)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=LevaCompany)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LevaCompany)](https://git.io/streak-stats)
 
