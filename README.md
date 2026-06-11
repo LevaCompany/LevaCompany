@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LevaCompany)](https://git.io/streak-stats)
 
-[![Leva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LevaCompany)
+[![Leva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LevaCompany&theme=react)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevaCompany&theme=solarized_dark)
 
